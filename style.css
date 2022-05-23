@@ -1,0 +1,21 @@
+body{
+    background-color:lightpink ;
+    color: mediumpurple;
+}
+.list{
+    color: whitesmoke;
+    font-size: 20px;
+}
+.heading{
+    font-size: 25px;
+    width: 80%;
+}
+#webcam{
+    border:1px ridge black;
+    width: 150px;
+    height: 150px;
+}
+#result1, #result2{
+    color:gold;
+    font-size: 20px;
+}
